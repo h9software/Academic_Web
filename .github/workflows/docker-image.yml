@@ -1,4 +1,4 @@
-name: Docker Image CI
+name: Docker Academic_Web CI
 
 on:
   push:
